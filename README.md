@@ -13,6 +13,7 @@
 
 **MoA (Mixture of Agents)** is an application that combines multiple AI models (Proposers & Aggregator) to generate a unified, more accurate response.  
 Users can enter any question, receive two answers from different models, and then the **Aggregator agent** merges them into a simplified final answer.
+<img width="2816" height="1536" alt="Gemini_Generated_Image_1tnwh51tnwh51tnw" src="https://github.com/user-attachments/assets/2971f158-053f-4a8b-b12b-f0152b83ef50" />
 
 ---
 
